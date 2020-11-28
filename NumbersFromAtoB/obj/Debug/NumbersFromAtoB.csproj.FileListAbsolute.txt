@@ -1,0 +1,6 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumbersFromAtoB\bin\Debug\NumbersFromAtoB.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumbersFromAtoB\bin\Debug\NumbersFromAtoB.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumbersFromAtoB\bin\Debug\NumbersFromAtoB.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumbersFromAtoB\obj\Debug\NumbersFromAtoB.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumbersFromAtoB\obj\Debug\NumbersFromAtoB.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumbersFromAtoB\obj\Debug\NumbersFromAtoB.pdb
