@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\OddPositive\bin\Debug\OddPositive.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\OddPositive\bin\Debug\OddPositive.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\OddPositive\bin\Debug\OddPositive.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\OddPositive\obj\Debug\OddPositive.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\OddPositive\obj\Debug\OddPositive.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\OddPositive\obj\Debug\OddPositive.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\OddPositive\obj\Debug\OddPositive.csprojAssemblyReference.cache

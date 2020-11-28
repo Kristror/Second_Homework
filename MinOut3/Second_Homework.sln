@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinOut3", "MinOut3.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfDigits", "..\NumberOfDigits\NumberOfDigits.csproj", "{15C5CED0-8775-478E-9946-4B85484CABCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddPositive", "..\OddPositive\OddPositive.csproj", "{4BBC4C71-A052-4A0C-82B4-A58DF5576FCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{15C5CED0-8775-478E-9946-4B85484CABCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15C5CED0-8775-478E-9946-4B85484CABCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15C5CED0-8775-478E-9946-4B85484CABCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBC4C71-A052-4A0C-82B4-A58DF5576FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBC4C71-A052-4A0C-82B4-A58DF5576FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBC4C71-A052-4A0C-82B4-A58DF5576FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBC4C71-A052-4A0C-82B4-A58DF5576FCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
