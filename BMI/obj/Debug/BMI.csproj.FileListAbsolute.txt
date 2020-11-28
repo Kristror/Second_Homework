@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\BMI\bin\Debug\BMI.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\BMI\bin\Debug\BMI.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\BMI\bin\Debug\BMI.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\BMI\obj\Debug\BMI.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\BMI\obj\Debug\BMI.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\BMI\obj\Debug\BMI.csprojAssemblyReference.cache

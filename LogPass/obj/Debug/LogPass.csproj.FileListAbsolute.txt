@@ -4,3 +4,4 @@ D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\LogPass\bin\
 D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\LogPass\obj\Debug\LogPass.csproj.CoreCompileInputs.cache
 D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\LogPass\obj\Debug\LogPass.exe
 D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\LogPass\obj\Debug\LogPass.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\LogPass\obj\Debug\LogPass.csprojAssemblyReference.cache

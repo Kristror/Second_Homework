@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddPositive", "..\OddPositi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogPass", "..\LogPass\LogPass.csproj", "{EB6B62F8-5821-4195-B86F-D730329CD9E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "..\BMI\BMI.csproj", "{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EB6B62F8-5821-4195-B86F-D730329CD9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB6B62F8-5821-4195-B86F-D730329CD9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB6B62F8-5821-4195-B86F-D730329CD9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
