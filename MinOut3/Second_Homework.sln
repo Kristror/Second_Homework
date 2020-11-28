@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogPass", "..\LogPass\LogPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "..\BMI\BMI.csproj", "{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodNumbers", "..\GoodNumbers\GoodNumbers.csproj", "{1218E5FB-7550-458B-802D-C7FC502DB4EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B36958D-9B10-4A8F-9AE9-3CA2ED6BFA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1218E5FB-7550-458B-802D-C7FC502DB4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1218E5FB-7550-458B-802D-C7FC502DB4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1218E5FB-7550-458B-802D-C7FC502DB4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1218E5FB-7550-458B-802D-C7FC502DB4EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
