@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumberOfDigits\bin\Debug\NumberOfDigits.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumberOfDigits\bin\Debug\NumberOfDigits.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumberOfDigits\bin\Debug\NumberOfDigits.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumberOfDigits\obj\Debug\NumberOfDigits.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumberOfDigits\obj\Debug\NumberOfDigits.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumberOfDigits\obj\Debug\NumberOfDigits.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Second_Homework\NumberOfDigits\obj\Debug\NumberOfDigits.pdb
