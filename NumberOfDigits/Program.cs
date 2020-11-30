@@ -18,6 +18,7 @@ namespace NumberOfDigits
             int number;
             int copynum;
             int digits = 0;
+
             Console.WriteLine("Программа по подсчету количества цифр числа");
 
             Console.WriteLine("Введите  число:");
