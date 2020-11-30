@@ -19,7 +19,7 @@ namespace MinOut3
             double num1;
             double num2;
             double num3;
-            Console.WriteLine("Программа по нахождению минимального изи трех");
+            Console.WriteLine("Программа по нахождению минимального из трех чисел");
 
             Console.WriteLine("Введите первое число:");
             Double.TryParse(Console.ReadLine(), out num1);

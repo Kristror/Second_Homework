@@ -20,9 +20,9 @@ namespace NumbersFromAtoB
             Console.WriteLine("Введите первое число:");
             int numA = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Введите второе число:");
+            Console.WriteLine("Введите второе число:");            
             int numB = int.Parse(Console.ReadLine());
-
+            Console.WriteLine("");
             int sum = 0;
             if (numA != numB)
             {
@@ -34,15 +34,15 @@ namespace NumbersFromAtoB
                 {
                     sum = NumbersFromAtoB(numA, numB);
                 }
-                Console.WriteLine($"Сумма введеныч чисел равна: {sum}");
+                Console.WriteLine($"Сумма введеных чисел равна: {sum}");
             }
-            else Console.WriteLine("Введеные числа равны: ");
+            else Console.WriteLine("Введеные числа равны");
             Console.ReadKey();
         }
 
         private static int NumbersFromAtoB(int start, int end)
         {
-            Console.WriteLine(start);
+            Console.WriteLine(start.ToString());
             if (start < end) return NumbersFromAtoB(start + 1, end) + start;
             else return 0;
         }

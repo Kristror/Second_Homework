@@ -26,13 +26,14 @@ namespace BMI
             Console.WriteLine("Введите ваш вес в килограммах:");
             double weight = Double.Parse(Console.ReadLine());
 
-            double bmi = weight / (growth * growth);
+            double growth2 = growth * growth;
+            double bmi = weight / growth2;
 
             Console.WriteLine($"При росте {growth} м и весе {weight} кг ваш  индекс массы тела: {bmi:F2}");
             if ((bmi >= lowNormalBMI) && (bmi <= hightNormalBMI)) Console.WriteLine("С вашим весом все прекрасно, так дрежать!");
             else {
-                if (bmi < lowNormalBMI) Console.WriteLine($"Вам нужно поднабрать {(lowNormalBMI-bmi) * (growth * growth)} кг для кого что бы ваш вес был в норме");
-                if (bmi > hightNormalBMI) Console.WriteLine($"Вам нужно сбросить {(bmi-hightNormalBMI) * (growth * growth)} кг для кого что бы ваш вес был в норме");
+                if (bmi < lowNormalBMI) Console.WriteLine($"Вам нужно поднабрать {(lowNormalBMI - bmi) * growth2} кг для кого что бы ваш вес был в норме");
+                if (bmi > hightNormalBMI) Console.WriteLine($"Вам нужно сбросить {(bmi - hightNormalBMI) * growth2} кг для кого что бы ваш вес был в норме");
             }
             Console.ReadKey();
          }
